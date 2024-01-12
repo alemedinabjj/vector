@@ -32,7 +32,7 @@ o id do produto é gerado com o uuid do java, então não é necessário passar 
 ## Repositório do frontend
 
 [Repositório](
-[https://alemedinabbj.github.io/VectorFrontend/](https://github.com/alemedinabjj/vector/tree/main/vector-case-front/src))
+https://alemedinabbj.github.io/VectorFrontend/](https://github.com/alemedinabjj/vector/tree/main/vector-case-front/src)
 
 
 ## Tecnologias utilizadas
