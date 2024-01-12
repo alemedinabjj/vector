@@ -25,9 +25,8 @@ o id do produto é gerado com o uuid do java, então não é necessário passar 
 
 # Frontend 
 
-## Você pode acessar o frontend da aplicação através do link abaixo:
+## Ao clonar o repositório, basta abrir o arquivo index.html no navegador para visualizar o frontend e cadastrar um produto.
 
-[Frontend]()
 
 
 ## Tecnologias utilizadas
