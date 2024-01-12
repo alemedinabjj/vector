@@ -27,12 +27,7 @@ o id do produto é gerado com o uuid do java, então não é necessário passar 
 
 ## Você pode acessar o frontend da aplicação através do link abaixo:
 
-[Frontend](https://vector-frontend.herokuapp.com/)
-
-## Repositório do frontend
-
-[Repositório](
-https://alemedinabbj.github.io/VectorFrontend/](https://github.com/alemedinabjj/vector/tree/main/vector-case-front/src)
+[Frontend]()
 
 
 ## Tecnologias utilizadas
